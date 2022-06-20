@@ -11,4 +11,3 @@ module Calculator
         end
     end
 end
-
