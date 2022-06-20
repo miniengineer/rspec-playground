@@ -1,4 +1,4 @@
-require "./calculator"
+require "../and_call_original/calculator"
 
 RSpec.describe "and_call_original" do
     it "trying to figure out what it does" do
